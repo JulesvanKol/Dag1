@@ -4,8 +4,9 @@ Created on Tue Sep 26 14:57:00 2023
 
 @author: jules
 """
+haha nieuwe regel
 
-print('mysql_read application')
+
 
 pip install mysql-connector-python
 
